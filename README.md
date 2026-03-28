@@ -17,7 +17,7 @@ An AI-powered Resume Analyzer that evaluates resumes against job descriptions, p
 - 🤖 AI-based Resume Suggestions
 - 📝 Generate Optimized Resume
 - 📥 Download Resume in Multiple Formats
-- 💬 WhatsApp Bot Integration
+- 💬 Telegram Bot Integration
 - 🎮 Discord Bot Support
 
 ---
@@ -46,7 +46,6 @@ bot/
 ├── AI_Suggestions.docx # AI suggestions output
 ├── optimized_resume.docx # Generated resume
 ├── requirements.txt # Dependencies
-
 
 ---
 
